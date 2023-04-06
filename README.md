@@ -5,8 +5,7 @@
 - 🌱 Atualmente estudando Typescript e Angular
 - 📫 Linkedin: https://www.linkedin.com/in/michelrmota/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrBlackRM&theme=tokyonight&show_icons=true)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrBlackRM&theme=blue-green" width="250">![SrBlackRM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrBlackRM&theme=tokyonight&show_icons=true) 
 
 <br><br>
 
