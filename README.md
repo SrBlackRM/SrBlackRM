@@ -2,7 +2,7 @@
 
 ### Me chamo Michel, sou estudante de ADS pela UniFECAF
 - 🔭 Estou à procura de uma oportunidade!
-- 🌱 Atualmente estudando Typescript e Angular
+- 🌱 Atualmente estudando Typescript e React
 - 📫 Linkedin: https://www.linkedin.com/in/michelrmota/
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrBlackRM&theme=blue-green" width="250">![SrBlackRM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrBlackRM&theme=tokyonight&show_icons=true) 
